@@ -149,7 +149,7 @@ Co-authored-by: Name <email@example.com>
 
 後方互換性のない変更を検出した場合：
 - コミットメッセージに `BREAKING CHANGE:` を追加
-- type に `!` を付ける（例: `feat!:`)
+- type に感嘆符を付ける（例: `feat!:`）
 
 ## 使用例
 
